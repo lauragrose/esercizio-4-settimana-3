@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    background-color: rgb(151, 11, 11);
+    
+}
+li {
+    list-style-type: none;
+}
+h1 {
+    border: 2px solid black;
+    
+}
